@@ -1,5 +1,6 @@
 # Transmisión Electrónica de Datos(TED) - Cargar Archivo
 
+>[!NOTE]
 [Más informacion sobre el API](https://apiportal.mercantilbanco.com/mercantil-banco/produccion/product/24422)
 
 ### Índice
@@ -79,9 +80,11 @@
 ![Request example](https://www.mercantilbanco.com/mercprod/apiportal/images/ted-cargar-archivo.request-json.png)<br>
 ![Response example](https://www.mercantilbanco.com/mercprod/apiportal/images/ted-cargar-archivo-response-json.png)<br>
 
+>[!NOTE]
 Para información detallada sobre los campos del request pulsa [aquí](https://www.mercantilbanco.com/mercprod/apiportal/pdfs/api_ted_descripcion_de_atributos_y_campos_cargar_archivo_1.pdf)
 
 <a id="error-codes"></a>
 ### Códigos de error
 
+>[!NOTE]
 Para información detallada sobre la lista de errores pulsa [aquí](https://www.mercantilbanco.com/mercprod/apiportal/pdfs/api_ted_tipo_de_errores_1.pdf).
